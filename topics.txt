@@ -1,0 +1,14 @@
+We learned on Thursday about DevOps and how the mindset and approach works.
+We went through best the methodology and tools used to improve code and
+software development.
+
+We heard about the way devops is shifting focus to more secure software. We
+learned about the no blame approach and constant attempt to improve it.
+
+We learned on Friday about how the git system works
+There is a fast foward or three way to merge the files that are not necessarily
+in sync. We saw the data structures highligthed by the teacher and were walked
+through how to use it.
+
+We learned on Monday more about git and how to incorporate it into GitHub. We
+also learned about GitHub and how to work with it in conjunction with git.
