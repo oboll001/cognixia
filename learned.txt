@@ -12,3 +12,8 @@ through how to use it.
 
 We learned on Monday more about git and how to incorporate it into GitHub. We 
 also learned about GitHub and how to work with it in conjunction with git. 
+
+We learned how to make issues and pull requests. As well as using ssh to 
+use with a private repo.
+
+Creating a wiki for github.
